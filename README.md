@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
-# Use the library package locally in external project
+## Use the library package locally in external project
 
 1. **Copy** `moses-chat-gui` folder somewhere you want (e.g. `C:/repos/moses-chat-gui`)
 2. **Add Dependenies to your project in which you want to integrate the library:**
