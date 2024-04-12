@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of moses-chat-gui
+ */
+export * from './lib/moses-chat-gui.service';
+export * from './lib/moses-chat-gui.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21vc2VzLWNoYXQtZ3VpL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLGdDQUFnQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG1vc2VzLWNoYXQtZ3VpXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbW9zZXMtY2hhdC1ndWkuc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL21vc2VzLWNoYXQtZ3VpLmNvbXBvbmVudCc7XHJcbiJdfQ==
